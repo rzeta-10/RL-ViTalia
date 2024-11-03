@@ -25,6 +25,17 @@ Swin Transformers build on the ViT framework by introducing a hierarchical struc
     <p><strong>Figure 2: ViT and Swin Transformer Architecture</strong></p>
 </div>
 
+--------------------------------------------------------------------------------------
+
+### Dataset
+
+The dataset used for training this malaria detection model can be found on Kaggle:
+- [Cell Images for Detecting Malaria](https://www.kaggle.com/datasets/iarunava/cell-images-for-detecting-malaria)
+
+This dataset contains images of infected and uninfected cell samples, which are used to train and evaluate the model's performance in detecting malaria.
+
+----------------------------------------------------------------------------------
+
 ### References
 
 - [WHO Fact Sheet on Malaria](https://www.who.int/news-room/fact-sheets/detail/malaria)
