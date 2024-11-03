@@ -39,5 +39,5 @@ This dataset contains images of infected and uninfected cell samples, which are 
 ### References
 
 - [WHO Fact Sheet on Malaria](https://www.who.int/news-room/fact-sheets/detail/malaria)
-- [CDC Malaria Diagnosis and Treatment]([https://www.cdc.gov/malaria/diagnosis_treatment/diagnosis.html](https://www.cdc.gov/malaria/hcp/diagnosis-testing/?CDC_AAref_Val=https://www.cdc.gov/malaria/diagnosis_treatment])
+- [CDC Malaria Diagnosis and Treatment](https://www.cdc.gov/malaria/diagnosis_treatment/diagnosis.html](https://www.cdc.gov/malaria/hcp/diagnosis-testing/?CDC_AAref_Val=https://www.cdc.gov/malaria/diagnosis_treatment))
 
