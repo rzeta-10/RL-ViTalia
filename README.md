@@ -7,34 +7,26 @@ Malaria is a serious and life-threatening disease caused by *Plasmodium* parasit
 - **Global Burden**: In 2017, there were approximately 219 million cases of malaria across 90 countries, leading to around 435,000 deaths. The majority of malaria cases and fatalities occurred in the WHO African Region, which bears 92% of cases and 93% of deaths.
 - **Affected Populations**: Malaria has a disproportionate impact on children under five and pregnant women, particularly in sub-Saharan Africa. Vulnerable populations in regions with inadequate access to healthcare are at higher risk of severe complications and death.
 
-### Understanding Malaria and its Parasites
+<div align="center">
+    <img src="https://cdn1.sph.harvard.edu/wp-content/uploads/2015/03/Malaria-cells_CDC.jpg" alt="Malaria" />
+    <p><strong>Figure 1: Malaria Cells</strong></p>
+</div>
 
-Malaria is caused by *Plasmodium* parasites, which are transmitted through "malaria vectors"—infected female *Anopheles* mosquitoes. Five parasite species infect humans, with *P. falciparum* and *P. vivax* posing the greatest risk due to their potential for severe infection and spread.
+--------------------------------------------------------------------------------------
 
-1. **P. falciparum**: The deadliest species, responsible for the majority of malaria-related deaths. Found mainly in sub-Saharan Africa.
-2. **P. vivax**: Known for causing recurring malaria infections, it is common in Asia and the Americas and poses unique challenges in treatment.
+### Vision Transformers (ViT) and Swin Transformers
 
-### Challenges in Malaria Diagnosis
+Vision Transformers (ViT) represent a breakthrough in computer vision, applying transformer architectures, which were initially designed for natural language processing, to image classification tasks. Unlike traditional Convolutional Neural Networks (CNNs), ViTs treat images as sequences of patches, enabling them to capture long-range dependencies effectively. This makes them particularly effective in binary classification tasks, as they can focus on relevant features throughout the entire image rather than just localized areas.
 
-Diagnosing malaria can be complex and challenging, especially in areas where it is no longer endemic. Healthcare providers in these regions may not be accustomed to considering malaria as a potential diagnosis, and laboratory staff may lack experience in identifying the parasites under a microscope. Malaria symptoms—such as fever, chills, and headache—are often mild and easily mistaken for other illnesses, especially in non-immune individuals. Without prompt treatment, *P. falciparum* infections can rapidly progress to severe illness, often within 24 hours, leading to life-threatening complications.
+Swin Transformers build on the ViT framework by introducing a hierarchical structure that allows for both local and global feature extraction. This design not only enhances their power for image classification but also makes them suitable for more complex tasks such as object detection and segmentation, while offering improved training speed and efficiency.
 
-### Methods of Malaria Detection
-
-#### Microscopic Diagnosis
-
-Microscopy remains the gold standard for malaria diagnosis. This involves preparing a blood smear from the patient’s blood, staining it to highlight the parasites, and examining it under a microscope. While highly effective, this method requires high-quality reagents, reliable microscopes, and skilled laboratory staff to detect and differentiate malaria species accurately. Errors can occur if the microscopy equipment or techniques are suboptimal, affecting diagnosis quality.
-
-#### Rapid Diagnostic Tests (RDTs)
-
-Rapid Diagnostic Tests (RDTs) offer an alternative to microscopy, especially in remote or resource-limited areas. These tests are easy to use, provide quick results, and don’t require extensive training, making them suitable for low-resource settings. However, RDTs can vary in accuracy and may not detect all *Plasmodium* species effectively.
-
-#### Molecular Methods
-
-Advanced molecular methods like Polymerase Chain Reaction (PCR) provide highly sensitive and specific malaria diagnoses. Although PCR is less common in field settings due to its cost and complexity, it is used in reference laboratories and research settings for identifying parasite species and drug resistance markers. 
-
-![Malaria](https://cdn1.sph.harvard.edu/wp-content/uploads/2015/03/Malaria-cells_CDC.jpg)
+<div align="center">
+    <img src="Figure_1.png" alt="Figure 1" />
+    <p><strong>Figure 2: ViT and Swin Transformer Architecture</strong></p>
+</div>
 
 ### References
 
 - [WHO Fact Sheet on Malaria](https://www.who.int/news-room/fact-sheets/detail/malaria)
 - [CDC Malaria Diagnosis and Treatment](https://www.cdc.gov/malaria/diagnosis_treatment/diagnosis.html)
+
