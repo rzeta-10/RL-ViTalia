@@ -8,7 +8,7 @@ Malaria is a serious and life-threatening disease caused by *Plasmodium* parasit
 - **Affected Populations**: Malaria has a disproportionate impact on children under five and pregnant women, particularly in sub-Saharan Africa. Vulnerable populations in regions with inadequate access to healthcare are at higher risk of severe complications and death.
 
 <div align="center">
-    <img src="https://cdn1.sph.harvard.edu/wp-content/uploads/2015/03/Malaria-cells_CDC.jpg" alt="Malaria" />
+    <img src="![image](https://github.com/user-attachments/assets/51ebacd1-acb9-4832-94ae-62dd99369560)" alt="Malaria" />
     <p><strong>Figure 1: Malaria Cells</strong></p>
 </div>
 
