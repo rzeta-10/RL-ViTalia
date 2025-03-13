@@ -8,8 +8,8 @@ Malaria is a serious and life-threatening disease caused by *Plasmodium* parasit
 - **Affected Populations**: Malaria has a disproportionate impact on children under five and pregnant women, particularly in sub-Saharan Africa. Vulnerable populations in regions with inadequate access to healthcare are at higher risk of severe complications and death.
 
 <div align="center">
-    <img src="https://cdn1.sph.harvard.edu/wp-content/uploads/2015/03/Malaria-cells_CDC.jpg" alt="Malaria" />
-    <p><strong>Figure 1: Malaria Cells</strong></p>
+    <img src="malaria.jpeg" alt="Malaria" />
+    <p><strong>Figure 1: Malaria Infected Blood Cells Smear</strong></p>
 </div>
 
 --------------------------------------------------------------------------------------
@@ -22,7 +22,7 @@ Swin Transformers build on the ViT framework by introducing a hierarchical struc
 
 <div align="center">
     <img src="Figure_1.png" alt="Figure 1" />
-    <p><strong>Figure 2: ViT and Swin Transformer Architecture</strong></p>
+    <p><strong>Figure 2: Accuracy of ViT, Swin Transformers</strong></p>
 </div>
 
 --------------------------------------------------------------------------------------
