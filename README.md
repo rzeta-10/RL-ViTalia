@@ -8,7 +8,7 @@ Malaria is a serious and life-threatening disease caused by *Plasmodium* parasit
 - **Affected Populations**: Malaria has a disproportionate impact on children under five and pregnant women, particularly in sub-Saharan Africa. Vulnerable populations in regions with inadequate access to healthcare are at higher risk of severe complications and death.
 
 <div align="center">
-    <img src="malaria.jpeg" alt="Malaria" />
+    <img src="Results/malaria.jpeg" alt="Malaria" />
     <p><strong>Figure 1: Malaria Infected Blood Cells Smear</strong></p>
 </div>
 
@@ -21,7 +21,7 @@ Vision Transformers (ViT) represent a breakthrough in computer vision, applying 
 Swin Transformers build on the ViT framework by introducing a hierarchical structure that allows for both local and global feature extraction. This design not only enhances their power for image classification but also makes them suitable for more complex tasks such as object detection and segmentation, while offering improved training speed and efficiency.
 
 <div align="center">
-    <img src="Figure_1.png" alt="Figure 1" />
+    <img src="Results/Figure_1.png" alt="Figure 1" />
     <p><strong>Figure 2: Accuracy of ViT, Swin Transformers</strong></p>
 </div>
 
