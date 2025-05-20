@@ -51,6 +51,7 @@ The system integrates multiple advanced components:
   <em>Figure: Attention Maps produce by CoT based on cell morphology</em>
 
 </div>
+
 ## Dataset
 
 The model is trained and evaluated on the "Cell Images for Detecting Malaria" dataset from Kaggle:
